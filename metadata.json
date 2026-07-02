@@ -1,0 +1,6 @@
+{
+  "name": "Jamie's Home Improvements",
+  "description": "Professional Painting, Decorating & Home Improvement Services in Carrickfergus, UK",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
